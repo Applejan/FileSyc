@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Stations>
+  <Computer Station="Home">
+    <WorkDir>
+      "D:\PernoalProgram\workdir"
+    </WorkDir>
+    <ForsDir>
+      "D:\PernoalProgram\forsdir"
+    </ForsDir>
+    <SoftWareDir>
+      "D:\PernoalProgram\software"
+    </SoftWareDir>
+  </Computer>
+  <Computer Station="Company">
+    <WorkDir>
+      "D:\PernoalProgram\KS"
+    </WorkDir>
+    <ForsDir>
+      "D:\PernoalProgram\KS"
+    </ForsDir>
+    <SoftWareDir>
+      "D:\PernoalProgram\KS"
+    </SoftWareDir>
+  </Computer>
+  <Computer Station="RemoveableDisk">
+    <WorkDir>
+      "D:\PernoalProgram\KS"
+    </WorkDir>
+    <ForsDir>
+      "D:\PernoalProgram\KS"
+    </ForsDir>
+    <SoftWareDir>
+      "D:\PernoalProgram\KS"
+    </SoftWareDir>
+  </Computer>
+  <Version>1.0.0.0</Version>
+</Stations>

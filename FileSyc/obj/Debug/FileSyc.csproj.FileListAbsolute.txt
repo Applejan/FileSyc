@@ -1,0 +1,7 @@
+D:\PernoalProgram\FileSyc\FileSyc\bin\Debug\FileSyc.exe.config
+D:\PernoalProgram\FileSyc\FileSyc\bin\Debug\FileSyc.exe
+D:\PernoalProgram\FileSyc\FileSyc\bin\Debug\FileSyc.pdb
+D:\PernoalProgram\FileSyc\FileSyc\obj\Debug\FileSyc.csproj.CoreCompileInputs.cache
+D:\PernoalProgram\FileSyc\FileSyc\obj\Debug\FileSyc.exe
+D:\PernoalProgram\FileSyc\FileSyc\obj\Debug\FileSyc.pdb
+D:\PernoalProgram\FileSyc\FileSyc\obj\Debug\FileSyc.csprojAssemblyReference.cache
